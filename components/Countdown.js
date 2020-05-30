@@ -16,6 +16,7 @@ class Countdown extends Component {
     let checkTime = setInterval(getCountdownTime, 1000);
     return (
       <div>
+      <p>{checkTime}</p>
       </div>
     );
   }

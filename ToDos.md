@@ -7,3 +7,4 @@
 
 ## Helpful Links
 - https://overreacted.io/making-setinterval-declarative-with-react-hooks/
+- https://codepen.io/allisonkbates/pen/XWmvVgW
